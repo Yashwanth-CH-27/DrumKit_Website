@@ -1,1 +1,1 @@
-# DrumKit_Website
+This website features a variety of drumkit instruments, each assigned to specific letters on the keyboard. When you press a corresponding key, the respective drum sound will play. Additionally, you can play the sounds by simply clicking on the drum images.
